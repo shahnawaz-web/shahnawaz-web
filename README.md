@@ -13,7 +13,7 @@ If something isn’t working with your website:
  - You’re losing customers due to poor user experience
  - You have an idea, but no clear technical direction
 ---
-# 🛠️ My Tech Stack
+# My Tech Stack
 
 A complete overview of my **technical expertise, skills, and development stack** focused on building scalable, high-performance web applications and SaaS products.
 
