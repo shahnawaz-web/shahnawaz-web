@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Shahnawaz Khan
+#  Hi, I'm Shahnawaz Khan
 
-- 🚀 Full Stack Web Developer | Building Scalable & High-Performance Web Apps  
-- 💼 I help businesses build fast, modern, and conversion-focused digital products  
-- 🌍 Pakistan-based | Available for Remote Work  
+-  Full Stack Web Developer | Building Scalable & High-Performance Web Apps  
+-  I help businesses build fast, modern, and conversion-focused digital products  
+-  Pakistan-based | Available for Remote Work  
 ---
 ## How can I help You:
 I don’t just build websites ,I solve business problems.
@@ -19,7 +19,7 @@ A complete overview of my **technical expertise, skills, and development stack**
 
 ---
 
-## 💡 Core Expertise (What I Deliver)
+## Core Expertise (What I Deliver)
 I don’t just build websites - I build **solutions that drive results**.
 
 - Frontend that users love ( Clean, responsive, mobile-first UI/ UX ) 
@@ -31,7 +31,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## 🎨 Frontend Development
+## Frontend Development
 
 - HTML5, CSS3, JavaScript (ES6+)  
 - React.js (Component-Based Architecture, Hooks)  
@@ -41,7 +41,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 - Node.js, Express.js (Server-Side Development)  
 - RESTful API Development & Integration  
@@ -50,7 +50,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## 🗄️ Database Management
+## Database Management
 
 - MongoDB (NoSQL, Document-Based Structure)  
 - MySQL (Relational Database Systems)  
@@ -59,7 +59,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## 🚀 Deployment & DevOps
+## Deployment & DevOps
 
 - Deployment: Vercel, Netlify  
 - Hosting & Server Configuration  
@@ -69,7 +69,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## 🧰 Developer Tools
+## Developer Tools
 
 - Git & GitHub (Version Control & Collaboration)  
 - Chrome DevTools (Debugging & Performance Analysis)  
@@ -78,7 +78,7 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## 🔍 SEO & Performance Optimization
+## SEO & Performance Optimization
 
 - On-Page SEO Strategy  
 - Core Web Vitals Optimization (LCP, CLS, FID)  
@@ -88,13 +88,13 @@ I don’t just build websites - I build **solutions that drive results**.
 
 ---
 
-## ⚡ Goal
+## Goal
 
 To build **fast, scalable, and production-ready web applications** that solve real-world problems and deliver measurable business value.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnawaz-web&show_icons=true&theme=tokyonight)
 
@@ -102,9 +102,9 @@ To build **fast, scalable, and production-ready web applications** that solve re
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🛒 E-Commerce Web App
+### E-Commerce Web App
 A production-ready full-stack application with authentication and protected checkout.
 
 **Highlights:**
@@ -112,12 +112,12 @@ A production-ready full-stack application with authentication and protected chec
 - Add-to-Cart + Secure Checkout  
 - Responsive UI (Tailwind CSS)  
 
-🔗 Live Demo: (Add your deployed link)  
-📂 Repository: https://github.com/shahnawaz-web  
+- Live Demo: (Add your deployed link)  
+- Repository: https://github.com/shahnawaz-web  
 
 ---
 
-### 🌦️ Weather App
+### Weather App
 A real-time weather application using external APIs.
 
 **Highlights:**
@@ -125,12 +125,12 @@ A real-time weather application using external APIs.
 - Dynamic UI updates  
 - Loading states & modern UI  
 
-- 🔗 Live Demo: (Add deployed link)  
-- 📂 Repository: https://github.com/shahnawaz-web  
+- Live Demo: (Add deployed link)  
+-  Repository: https://github.com/shahnawaz-web  
 
 ---
 
-### 🌐 Portfolio Website
+### Portfolio Website
 A high-performance personal portfolio optimized for SEO and conversions.
 
 **Highlights:**
@@ -138,12 +138,12 @@ A high-performance personal portfolio optimized for SEO and conversions.
 - Dark/Light mode  
 - SEO optimized structure  
 
-- 🔗 Live Demo: (Replace with deployed link)  
-- 📂 Repository: https://github.com/shahnawaz-web  
+- Live Demo: (Replace with deployed link)  
+- Repository: https://github.com/shahnawaz-web  
 
 ---
 
-## 📈 Currently Leveling Up
+## Currently Leveling Up
 
 - Advanced React (Performance & Architecture)  
 - Backend scaling (Node.js + MongoDB)  
@@ -151,15 +151,15 @@ A high-performance personal portfolio optimized for SEO and conversions.
 
 ---
 
-## 🤝 Let’s Work Together
+## Let’s Work Together
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shahnawaz-khan-webdeveloper/  
-- 🌐 Portfolio: (Deploy & add live link)  
-- 📧 Email: shahnawazkhan.webdev@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/shahnawaz-khan-webdeveloper/  
+-  Portfolio: (Deploy & add live link)  
+-  Email: shahnawazkhan.webdev@gmail.com  
 
 ---
 
-## ⚡ My Developer Mindset
+## My Developer Mindset
 
 I focus on writing clean, scalable code and building products that solve real-world problems.
 
