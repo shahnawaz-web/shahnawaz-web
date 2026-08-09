@@ -117,16 +117,51 @@ A production-ready full-stack application with authentication and protected chec
 
 ---
 
-### Weather App
-A real-time weather application using external APIs.
+### Scientific Calculator WebApp
+
+A modern scientific calculator web application designed to perform a wide range of mathematical calculations with a clean and user-friendly interface.
 
 **Highlights:**
-- Live weather data  
-- Dynamic UI updates  
-- Loading states & modern UI  
 
-- Live Demo: (Add deployed link)  
--  Repository: https://github.com/shahnawaz-web  
+* Basic and scientific mathematical operations
+
+* Dynamic calculation and result updates
+
+* Responsive and modern UI
+
+* User-friendly calculator interface
+
+* Real-time calculation results
+
+* **Live Demo:** https://scientific-calculator-web-app.netlify.app/
+
+* **Repository:** https://github.com/shahnawaz-web
+
+---
+
+
+### Weather Now Dashboard
+
+A real-time weather application that uses external APIs to provide accurate and up-to-date weather information.
+
+**Highlights:**
+
+* Live weather data
+
+* External API integration
+
+* Dynamic UI updates
+
+* Loading states & modern responsive UI
+
+* Real-time weather search
+
+* **Live Demo:** https://weather-now-dashboard.netlify.app/
+
+* **Repository:** https://github.com/shahnawaz-web
+
+---
+
 
 ---
 
