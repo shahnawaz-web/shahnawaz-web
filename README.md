@@ -139,6 +139,40 @@ A modern scientific calculator web application designed to perform a wide range 
 
 ---
 
+### TaskFlow is Task Management SaaS
+
+A modern, responsive task and project management platform designed to help individuals and teams organize work, manage projects, track deadlines, and improve productivity from a single unified workspace.
+
+**Highlights:**
+
+* Task creation, editing, deletion, and organization
+
+* Project management with progress tracking
+
+* Multiple views (List, Kanban, Calendar, Board)
+
+* Task prioritization, tags, and due dates
+
+* Team collaboration with roles and comments
+
+* Productivity dashboard with analytics
+
+* Notifications and activity tracking
+
+* Responsive UI for all devices
+
+* LocalStorage-based data persistence
+
+* Modern SaaS-style UI with Tailwind CSS
+
+* **Live Demo:** https://taskflow-eta-inky.vercel.app/
+
+* **Repository:** https://github.com/shahnawaz-web
+
+---
+
+If you want, I can also convert your **entire README into multiple GitHub sections (badges, screenshots, GIFs, and SEO-optimized version)** like a top SaaS product.
+
 
 ### Weather Now Dashboard
 
@@ -173,7 +207,7 @@ A high-performance personal portfolio optimized for SEO and conversions.
 - Dark/Light mode  
 - SEO optimized structure  
 
-- Live Demo: (Replace with deployed link)  
+- Live Demo: https://shahnawaz-khan-web.netlify.app/  
 - Repository: https://github.com/shahnawaz-web  
 
 ---
